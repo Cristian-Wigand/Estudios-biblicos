@@ -1,9 +1,311 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T20:34:08.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.2.3" etag="KjDXxLN9XZO8ChU4ZGrx" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T21:55:42.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="XpDL_pYHrn8lEO2gaqUn" version="24.2.3" type="github">
   <diagram name="Page-1" id="bjcvGjs64t0eD09M0lV6">
-    <mxGraphModel>
+    <mxGraphModel dx="3177" dy="1374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-1" target="vX5vHwNcHd7JaA59sKR7-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="230" />
+              <mxPoint x="400" y="290" />
+              <mxPoint x="110" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-1" target="vX5vHwNcHd7JaA59sKR7-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="230" />
+              <mxPoint x="400" y="290" />
+              <mxPoint x="455" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-1" target="vX5vHwNcHd7JaA59sKR7-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="230" />
+              <mxPoint x="400" y="290" />
+              <mxPoint x="1145" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-1" target="vX5vHwNcHd7JaA59sKR7-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="290" />
+              <mxPoint x="1280" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-1" value="&lt;b&gt;Adam&amp;nbsp;&lt;/b&gt;&lt;div&gt;Primer Hombre en la tierra&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-2" target="vX5vHwNcHd7JaA59sKR7-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="230" />
+              <mxPoint x="400" y="290" />
+              <mxPoint x="110" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-2" target="vX5vHwNcHd7JaA59sKR7-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="230" />
+              <mxPoint x="400" y="290" />
+              <mxPoint x="455" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-2" target="vX5vHwNcHd7JaA59sKR7-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="230" />
+              <mxPoint x="400" y="290" />
+              <mxPoint x="1145" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-2" target="vX5vHwNcHd7JaA59sKR7-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="230" />
+              <mxPoint x="400" y="290" />
+              <mxPoint x="1280" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-2" value="&lt;b&gt;Eva&lt;/b&gt; | &lt;b&gt;Javah&lt;/b&gt;&lt;div&gt;Primera Mujer en la tierra&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-5" target="vX5vHwNcHd7JaA59sKR7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-5" target="vX5vHwNcHd7JaA59sKR7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Yahweh, Rafa&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;&lt;b&gt;Elohim, Shaddai&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;&lt;b&gt;Jireh, Adonai&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-12" value="Hijos no nombrados explícitamente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-19" target="vX5vHwNcHd7JaA59sKR7-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-19" value="&lt;b&gt;Caín&lt;/b&gt; | &lt;b&gt;Kayin&lt;/b&gt;&lt;div&gt;El primer asesino motivado por la envidia, mato a Abel&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="330" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-22" value="&lt;b&gt;Abel&lt;/b&gt; | &lt;b&gt;Hevel&lt;/b&gt;&lt;div&gt;La primera víctima de asesinato murió a manos de su hermano Caín&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="320" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-23" target="vX5vHwNcHd7JaA59sKR7-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-23" value="Esposa de Caín" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-25" target="vX5vHwNcHd7JaA59sKR7-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-25" value="&lt;b&gt;Hanoj&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-27" target="vX5vHwNcHd7JaA59sKR7-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-27" value="Mujer de Hanoj" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-33" target="vX5vHwNcHd7JaA59sKR7-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-33" value="&lt;b&gt;Irad&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-34" target="vX5vHwNcHd7JaA59sKR7-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-34" value="Mujer de Irad" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-36" target="vX5vHwNcHd7JaA59sKR7-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-36" value="&lt;b&gt;Mejuyael&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-37" target="vX5vHwNcHd7JaA59sKR7-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="800" />
+              <mxPoint x="660" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-37" value="&lt;b&gt;Metushael&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-38" target="vX5vHwNcHd7JaA59sKR7-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="910" />
+              <mxPoint x="910" y="970" />
+              <mxPoint x="840" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-38" target="vX5vHwNcHd7JaA59sKR7-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="910" />
+              <mxPoint x="910" y="970" />
+              <mxPoint x="980" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-38" target="vX5vHwNcHd7JaA59sKR7-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="910" />
+              <mxPoint x="410" y="970" />
+              <mxPoint x="480" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-38" value="&lt;b&gt;Lemej&lt;/b&gt;&lt;div&gt;Tomo para si 2 esposas, Adah y Tzilah, Mato a un hombre para su afliccion y a un joven para su tristeza, y Lemej dijo: &quot;si Caín será vengado 7 veces, entonces Lemej 70 veces 7&quot;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="870" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-39" target="vX5vHwNcHd7JaA59sKR7-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="910" />
+              <mxPoint x="910" y="970" />
+              <mxPoint x="840" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-39" target="vX5vHwNcHd7JaA59sKR7-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="910" />
+              <mxPoint x="910" y="970" />
+              <mxPoint x="980" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-39" value="&lt;b&gt;Adah&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-40" target="vX5vHwNcHd7JaA59sKR7-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="910" />
+              <mxPoint x="410" y="970" />
+              <mxPoint x="480" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-40" target="vX5vHwNcHd7JaA59sKR7-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="910" />
+              <mxPoint x="410" y="970" />
+              <mxPoint x="340" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-40" value="&lt;b&gt;Tzilah&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-45" target="vX5vHwNcHd7JaA59sKR7-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-45" value="Mujer de Mejuyael" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-46" target="vX5vHwNcHd7JaA59sKR7-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-46" value="Mujer de Metushael" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-54" value="&lt;b&gt;Yaval&lt;/b&gt;&lt;div&gt;Fue el padre de aquellos que viven en tiendas y ganado&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-55" value="&lt;b&gt;Yuval&lt;/b&gt;&lt;div&gt;El invento el salterio y la cítara&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-56" value="&lt;b&gt;Tuval-Kayin&lt;/b&gt;&lt;div&gt;Quien forjaba todo tipo de herramientas de bronce y de hierro&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="990" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-57" value="&lt;b&gt;Naamah&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-58" value="Shet&lt;div&gt;(otorgado)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-59" value="Enosh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vX5vHwNcHd7JaA59sKR7-66" target="vX5vHwNcHd7JaA59sKR7-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vX5vHwNcHd7JaA59sKR7-66" value="Esposa de Shet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
